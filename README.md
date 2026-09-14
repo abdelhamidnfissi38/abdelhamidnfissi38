@@ -1,16 +1,29 @@
-## Hi there 👋
+# Abdelhamid Nfissi
 
-<!--
-**abdelhamidnfissi38/abdelhamidnfissi38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Master Web Intelligence et Science des Données (WISD), orienté vers la Data Analysis et la Business Intelligence.
 
-Here are some ideas to get you started:
+Je travaille principalement avec SQL Server, Power BI, Excel et Python/Pandas pour analyser, préparer et visualiser les données.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences principales
+
+- SQL Server & SQL
+- Power BI, Power Query & DAX
+- Excel
+- Python & Pandas
+- Modélisation de données
+- Data Warehouse
+- Data Visualization
+
+## Projets principaux
+
+- Olist E-Commerce Analytics
+- Pizza Sales Analysis
+- Power BI Ventes Analysis
+
+## Autres domaines
+
+Machine Learning, statistiques, NLP et intelligence artificielle.
+
+## Contact
+
+LinkedIn : https://www.linkedin.com/in/abdelhamid-nfissi
